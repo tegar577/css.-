@@ -1,0 +1,90 @@
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    text-align: center;
+    color: #000000;
+    font-size: 2rem;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    background-color: #00FF00;
+}
+
+.nav1{
+    width: 49%;
+    height: 100px;
+    background-color: #00FF00;
+    float: left;
+    margin-top: 10px;
+    margin-right: 1%;
+}
+.nav2{
+    width: 50%;
+    height: 100px;
+    background-color: #00FF00;
+    float: right;
+    margin-top: 10px;
+}
+
+.d {
+    width: 32.33%;
+    height: 100px;
+    background-color: #00FF00;
+    float: left;
+    margin-top: 10px;
+    margin-right: 1%;
+}
+
+.e {
+    width: 32.33%;
+    height: 100px;
+    background-color: #00FF00;
+    float: left;
+    margin-top: 10px;
+    margin-right: 1%;
+}
+
+.f {
+    width: 33.33%;
+    height: 100px;
+    background-color: #00FF00;
+    float: right;
+    margin-top: 10px;
+}
+
+.g {
+    width: 24%;
+    height: 100px;
+    background-color: #00FF00;
+    float: left;
+    margin-top: 10px;
+    margin-right: 1%;
+}
+
+.h {
+    width: 24%;
+    height: 100px;
+    background-color: #00FF00;
+    float: left;
+    margin-top: 10px;
+    margin-right: 1%;
+}
+
+.i {
+    width: 24%;
+    height: 100px;
+    background-color: #00FF00;
+    float: left;
+    margin-top: 10px;
+    margin-right: 1%;
+}
+
+.j {
+    width: 25%;
+    height: 100px;
+    background-color: #00FF00;
+    float: left;
+    margin-top: 10px;
+}
